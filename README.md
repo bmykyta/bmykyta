@@ -48,7 +48,7 @@ Today, the sun rises at **06:20** and sets at **17:14**.
 <img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
 
 ------------
-<p style="text-align:center">
+<p align="center">
     This <i>README</i> file is generated <b>every 3 hours</b>!<br/>
-    Last refresh: Sunday, 28 February, 22:36<br/>
+    Last refresh: Sunday, 28 February, 22:42<br/>
 </p>
