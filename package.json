@@ -1,0 +1,31 @@
+{
+  "name": "bmykyta",
+  "version": "1.0.0",
+  "description": "A dynamic README.md for GitHub Profile, using Actions and JavaScript\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmykyta/bmykyta.git"
+  },
+  "keywords": [
+    "readme.md",
+    "github",
+    "actions",
+    "dynamic",
+    "javascript"
+  ],
+  "author": "Mykyta Bondarchuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmykyta/bmykyta/issues"
+  },
+  "homepage": "https://github.com/bmykyta/bmykyta#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mustache": "^4.1.0",
+    "node-fetch": "^2.6.1"
+  }
+}
