@@ -12,14 +12,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: checkout
-        uses: actions/checkout@v1
-      - name: setup node
-        uses: actions/setup-node@v1
+      - name: Checkout
+        uses: actions/checkout@v2.x
+      - name: Setup Node.js
+        uses: actions/setup-node@v2.x
         with:
           node-version: '14.x'
       - name: cache
-        uses: actions/cache@v1
+        uses: actions/cache@v2.x
         with:
           path: node_modules
           key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
