@@ -1,3 +1,6 @@
+/**
+ * Don't forget to set repository action secrets in your repository settings
+ */
 require('dotenv').config();
 const Mustache = require('mustache');
 const fetch = require('node-fetch');
