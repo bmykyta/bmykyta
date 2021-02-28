@@ -1,4 +1,4 @@
-## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you<hr>
+## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you
 
 ### How to reach me 📫:
 [![Linkedin: mykyta-bondarchuk](https://img.shields.io/badge/-mykyta--bondarchuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mykyta-bondarchuk/)](https://www.linkedin.com/in/mykyta-bondarchuk/)
