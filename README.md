@@ -8,7 +8,7 @@
 
 My name is _Mykyta_, I'm a student at Kharkiv National University of Radio Electronics, and a Software Engineer at [Playwing](https://playwing.com).
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" /><br/>
-Currently, the weather in Kharkiv is: ___12°C, feels like 11°C, light rain___.<br>
+Currently, the weather in Kharkiv is: ___15°C, feels like 14°C, clear sky___.<br>
 Today, the sun rises at **06:59** and sets at **17:40**.
 
 ### Things I code with :man_technologist:
@@ -50,5 +50,5 @@ Today, the sun rises at **06:59** and sets at **17:40**.
 ------------
 <p align="center">
     This <i>README</i> file is generated <b>every 3 hours</b>!<br/>
-    Last refresh: Sunday, 17 October, 12:18<br/>
+    Last refresh: Sunday, 17 October, 15:29<br/>
 </p>
