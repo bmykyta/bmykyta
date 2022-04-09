@@ -1,14 +1,17 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://www.supportukraine.co/)
+
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you<hr>
 
 ### How to reach me 📫:
+[![Made in Ukraine](https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7)](https://www.supportukraine.co/)
 [![Linkedin: mykyta-bondarchuk](https://img.shields.io/badge/-mykyta--bondarchuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mykyta-bondarchuk/)](https://www.linkedin.com/in/mykyta-bondarchuk/)
 [![Medium Badge](https://img.shields.io/badge/-@bmykyta-03a57a?style=flat-square&label&logo=medium&logoColor=black&link=https://medium.com/@bmykyta/)](https://medium.com/@bmykyta)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=bmykyta)
 [![GitHub followers](https://img.shields.io/github/followers/bmykyta?label=follow&style=social)](https://github.com/bmykyta)
 
-My name is _Mykyta_, I'm a student at Kharkiv National University of Radio Electronics, and a Software Engineer at [Playwing](https://playwing.com).
+My name is _Mykyta_, I'm studying Internet of Things and working as a PHP Software Engineer.
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" /><br/>
-Currently, the weather in Kharkiv is: ___14°C, feels like 14°C, overcast clouds___.<br>
+Currently, the weather in Kharkiv is: ___14°C, feels like 13°C, overcast clouds___.<br>
 Today, the sun rises at **05:54** and sets at **19:17**.
 
 ### Things I code with :man_technologist:
@@ -40,8 +43,8 @@ Today, the sun rises at **05:54** and sets at **19:17**.
 
 
 ### Quick stats about me :chart_with_upwards_trend:
-| Github Stats | Top Languages |
-| --- | --- |
+| Github Stats                                                                                                                              | Top Languages                                                                                                                                                                                                  |
+|-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![Mykyta's github stats](https://github-readme-stats.vercel.app/api?username=bmykyta&show_icons=true&count_private=true&theme=tokyonight) | ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmykyta&title_color=70a5fd&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&langs_count=10&hide=css,html,blade) |
 
 ### Here's a Joke for you :stuck_out_tongue_winking_eye:
@@ -50,5 +53,5 @@ Today, the sun rises at **05:54** and sets at **19:17**.
 ------------
 <p align="center">
     This <i>README</i> file is generated <b>every 3 hours</b>!<br/>
-    Last refresh: Saturday, 9 April, 21:24<br/>
+    Last refresh: Saturday, 9 April, 23:06<br/>
 </p>
