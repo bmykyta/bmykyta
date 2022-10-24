@@ -11,8 +11,8 @@
 
 My name is _Mykyta_, I'm studying Internet of Things and working as a PHP Software Engineer.
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" /><br/>
-Currently, the weather in Kharkiv is: ___10°C, feels like 9°C, overcast clouds___.<br>
-Today, the sun rises at **07:10** and sets at **17:27**.
+Currently, the weather in Kharkiv is: ___9°C, feels like 9°C, overcast clouds___.<br>
+Today, the sun rises at **07:12** and sets at **17:25**.
 
 ### Things I code with :man_technologist:
 <p>
@@ -53,5 +53,5 @@ Today, the sun rises at **07:10** and sets at **17:27**.
 ------------
 <p align="center">
     This <i>README</i> file is generated <b>every 3 hours</b>!<br/>
-    Last refresh: Monday, 24 October, 21:41<br/>
+    Last refresh: Tuesday, 25 October, 00:25<br/>
 </p>
