@@ -20,14 +20,14 @@ function getRefreshDate()
             day: 'numeric',
             hour: 'numeric',
             minute: 'numeric',
-            timeZone: 'Europe/Kiev',
+            timeZone: 'Europe/Kyiv',
         }),
     };
 }
 
 async function getWeatherInformation() {
     return fetch(
-        `https://api.openweathermap.org/data/2.5/weather?q=kharkiv&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
+        `https://api.openweathermap.org/data/2.5/weather?q=kyiv&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
     )
         .then(r => r.json())
         .then(r => {
