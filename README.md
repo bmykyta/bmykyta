@@ -10,8 +10,8 @@
 
 My name is _Mykyta_, I'm as a PHP Software Engineer.
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" /><br/>
-Currently, the weather in Kyiv is: ___12°C, feels like 11°C, overcast clouds___.<br>
-Today, the sun rises at **07:23** and sets at **18:02**.
+Currently, the weather in Kyiv is: ___11°C, feels like 10°C, overcast clouds___.<br>
+Today, the sun rises at **07:25** and sets at **18:00**.
 
 ### Things I code with :man_technologist:
 <p>
@@ -51,5 +51,5 @@ Today, the sun rises at **07:23** and sets at **18:02**.
 ------------
 <p align="center">
     This <i>README</i> file is generated <b>every 3 hours</b>!<br/>
-    Last refresh: Friday 17 October at 21:30<br/>
+    Last refresh: Saturday 18 October at 00:20<br/>
 </p>
