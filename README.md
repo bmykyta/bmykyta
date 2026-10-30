@@ -11,7 +11,7 @@
 My name is _Mykyta_, I'm as a PHP Software Engineer.
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" /><br/>
 Currently, the weather in Kyiv is: ___9°C, feels like 9°C, overcast clouds___.<br>
-Today, the sun rises at **06:44** and sets at **16:38**.
+Today, the sun rises at **06:46** and sets at **16:36**.
 
 ### Things I code with :man_technologist:
 <p>
@@ -51,5 +51,5 @@ Today, the sun rises at **06:44** and sets at **16:38**.
 ------------
 <p align="center">
     This <i>README</i> file is generated <b>every 3 hours</b>!<br/>
-    Last refresh: Friday 30 October at 19:53<br/>
+    Last refresh: Saturday 31 October at 00:06<br/>
 </p>
